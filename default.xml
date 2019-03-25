@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="lichaojie"
-           fetch="https://github.com" />
-  <project path="testgit" name="testgit" remote="lichaojie" />  
-  <project path="testgit2" name="testgit2"  remote="lichaojie" />
+  <remote  name="origin"
+           fetch="https://github.com/lichaojie" />
+  <project path="testgit" name="testgit" remote="origin" />  
+  <project path="testgit2" name="testgit2"  remote="origin" />
 
 </manifest>
