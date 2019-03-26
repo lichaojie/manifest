@@ -3,6 +3,8 @@
   <remote  name="origin"
            fetch="https://github.com/lichaojie"
 		   revision="refs/tags/android-7.1.1_r6"/>
-  <project path="testgit2" name="testgit2"  remote="origin" />
+	   <project path="testgit2" name="testgit2"  remote="origin" />
+
+  	   <project path="testgit" name="testgit"  remote="origin" />
 
 </manifest>
